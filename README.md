@@ -1,3 +1,6 @@
+# Penjelasan YouTube:
+
+
 # Sistem Akademik Mahasiswa
 
 Aplikasi manajemen data mahasiswa, program studi, fakultas, mata kuliah, dan pengisian KRS.
