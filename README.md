@@ -1,4 +1,4 @@
-# Penjelasan YouTube:
+# Penjelasan melalui Youtube: https://youtu.be/MaBIV0Px_y8
 
 
 # Sistem Akademik Mahasiswa
